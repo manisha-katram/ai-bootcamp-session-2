@@ -1,0 +1,5 @@
+node_modules
+coverage
+build
+packages/frontend/build
+packages/backend/todo.db
